@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>steamspytop1002weeks</id>
+    <version>1.0.0</version>
+    <authors>steamspytop1002weeks</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="CsvHelper" version="30.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="7.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rober\source\repos\steamspy\steamspytop1002weeks\bin\Debug\net6.0\steamspytop1002weeks.runtimeconfig.json" target="lib\net6.0\steamspytop1002weeks.runtimeconfig.json" />
+    <file src="C:\Users\rober\source\repos\steamspy\steamspytop1002weeks\bin\Debug\net6.0\steamspytop1002weeks.dll" target="lib\net6.0\steamspytop1002weeks.dll" />
+  </files>
+</package>
